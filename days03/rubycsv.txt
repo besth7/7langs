@@ -1,0 +1,3 @@
+no, name, phone, email, company
+1, seolhee, na, seolhee@a.com, samsung
+2, seonhee, 111, test@a.com, lg
