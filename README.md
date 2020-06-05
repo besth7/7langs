@@ -1,2 +1,4 @@
-# 7langs
-7lagns of Bruce Tate
+# prolog
+
+install :  
+sudo apt-get install -y gprolog. 
