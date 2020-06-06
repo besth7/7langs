@@ -1,0 +1,2 @@
+concatenate([], List, List).
+
